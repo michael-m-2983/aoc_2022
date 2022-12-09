@@ -3,6 +3,11 @@
 #include <vector>
 #include <algorithm>
 #include <fstream>
+#include <map>
+#include <assert.h>
+#include <chrono>
+#include <random>
+#include <regex>
 
 int main(int argc, char **argv)
 {
