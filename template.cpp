@@ -7,7 +7,8 @@
 #include <assert.h>
 #include <chrono>
 #include <random>
-#include <regex>
+#include <numeric>
+#include <functional>
 
 int main(int argc, char **argv)
 {
